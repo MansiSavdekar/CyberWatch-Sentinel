@@ -1,2 +1,2 @@
-# NIDS-Sentinel-Core
+# CyberWatch-Sentinel
 Real Time Network Intrusion Detection System
